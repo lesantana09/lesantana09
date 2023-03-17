@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-# Leandro Santana
-Software Engineer Backend
+# Software Engineer Backend
 
 :house: I live in Guarulhos/SP 
 
