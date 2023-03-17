@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Software Engineer Backend
+# Software Engineer
 
 :house: I live in Guarulhos/SP 
 
